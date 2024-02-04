@@ -5402,7 +5402,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruit: {fileID: 5477746401905583158, guid: 03a22e6299bf83544a0a0af3a95c25ce, type: 3}
   bomb: {fileID: 8790591409920598033, guid: 76480822f0ebe0f4ea5c4966fb07b7eb, type: 3}
-  bombChance: 20
+  bombChance: 100
   spawnDelay: 1
 --- !u!4 &1498976000
 Transform:
